@@ -60,11 +60,11 @@ public class Main<people, females> {
                         ", gender=" + gender +
                         '}';
             }
-        }
+            }
 
-        enum Gender {
+            enum Gender {
             MALE, FEMALE
-        }
+            }
 
 
     }
